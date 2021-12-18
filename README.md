@@ -1,4 +1,4 @@
-# One-Dimensional-1-D-Convolution
+# One-Dimensional convolution
 # This is an introduction to One-Dimensional convolutions in python
 
 A discrete-time signal can be considered as a vector, an ordered collection of real or
